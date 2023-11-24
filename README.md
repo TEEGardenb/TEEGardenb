@@ -1,8 +1,8 @@
 <h1 align="center">Hola 👋, Me llamo Mateo</h1>
-<h3 align="center">Me apasiona el desarrollo frontend</h3>
+<h3 align="center">Me apasiona el desarrollo</h3>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left"> mateoparra1171@gmail.com
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
