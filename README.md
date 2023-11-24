@@ -14,10 +14,9 @@
 <td width="50%">
 <h3 align="center">Blog Landing Page</h3>
 <div align="center">
-<a href=""https://github.com/ArisGuimera/Android-Expert" target="_blank"><img src="https://i.imgur.com/Jji0CIE.jpg" width="400" alt="Curso básico android"></a>
+<a href=""https://github.com/ArisGuimera/Android-Expert" target="_blank">![Design preview for the Blogr landing page coding challenge](./design/desktop-preview.jpg)</a>
 <p>
 <a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
-![Design preview for the Blogr landing page coding challenge](./design/desktop-preview.jpg)
 </a>
 <a href="https://youtu.be/vJapzH_46a8" target="_blank">
 <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
