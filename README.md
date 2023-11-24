@@ -14,7 +14,8 @@
 <td width="50%">
 <h3 align="center">Blog Landing Page</h3>
 <div align="center">
-<a href=""https://github.com/ArisGuimera/Android-Expert" target="_blank"><img src="https://github.com/TEEGardenb/TEEGardenb/issues/1#issue-2010324661"></a>
+<a href=""https://github.com/ArisGuimera/Android-Expert" target="_blank">![desktop-preview](https://github.com/TEEGardenb/TEEGardenb/assets/106503865/ee8b8393-3954-4b53-9f20-118c014a8dc5)
+</a>
 <p>
 <a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
 </a>
