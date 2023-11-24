@@ -14,7 +14,7 @@
 <td width="50%">
 <h3 align="center">Blog Landing Page</h3>
 <div align="center">
-<a href=""https://github.com/ArisGuimera/Android-Expert" target="_blank">![Design preview for the Blogr landing page coding challenge](./design/desktop-preview.jpg)</a>
+<a href=""https://github.com/ArisGuimera/Android-Expert" target="_blank"><img src="https://github.com/TEEGardenb/TEEGardenb/issues/1#issue-2010324661"></a>
 <p>
 <a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
 </a>
