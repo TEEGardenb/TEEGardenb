@@ -27,3 +27,20 @@
 </div>
                                                                                       
 </td>
+
+<td width="50%">
+<h3 align="center">Blog Landing Page</h3>
+<div align="center">
+<a href=""https://github.com/ArisGuimera/Android-Expert" target="_blank"><img src="https://github.com/TEEGardenb/Blogr-landing-page-main-with-HTML-CSS-BOOTSTRAP-JS/assets/106503865/a334f480-a6d5-44ff-801f-caabdcf55364">
+</a>
+<p>
+<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
+</a>
+<a href="https://youtu.be/vJapzH_46a8" target="_blank">
+<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
+</a>
+</p>
+<p>Blog landig page responsivo hecho con bootstrap</p>
+</div>
+                                                                                      
+</td>
