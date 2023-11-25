@@ -14,7 +14,7 @@
 <td width="50%">
 <h3 align="center">Blog Landing Page</h3>
 <div align="center">
-<a href=""https://github.com/ArisGuimera/Android-Expert" target="_blank"><img src="https://github.com/TEEGardenb/Blogr-landing-page-main-with-HTML-CSS-BOOTSTRAP-JS/assets/106503865/a334f480-a6d5-44ff-801f-caabdcf55364">
+<a href="https://github.com/TEEGardenb/Blogr-landing-page-main-with-HTML-CSS-BOOTSTRAP-JS"><img src="https://github.com/TEEGardenb/Blogr-landing-page-main-with-HTML-CSS-BOOTSTRAP-JS/assets/106503865/a334f480-a6d5-44ff-801f-caabdcf55364" alt="landing-page-img">
 </a>
 <p>
 <a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
