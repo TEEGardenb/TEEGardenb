@@ -28,9 +28,9 @@
 </td>
 
 <td width="50%">
-<h3 align="center">Blog Landing Page</h3>
+<h3 align="center">News-homepage-main</h3>
 <div align="center">
-<a href=""https://github.com/ArisGuimera/Android-Expert" target="_blank"><img src="https://github.com/TEEGardenb/Blogr-landing-page-main-with-HTML-CSS-BOOTSTRAP-JS/assets/106503865/a334f480-a6d5-44ff-801f-caabdcf55364">
+<a href=""><img src="https://github.com/TEEGardenb/News-homepage-main/assets/106503865/24ede6e2-e3cd-41b8-b639-431f22bded99">
 </a>
 <p>
 <a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
@@ -39,7 +39,7 @@
 <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
 </a>
 </p>
-<p>Blog landig page responsivo hecho con bootstrap</p>
+<p>News-homepage-main hecho con el sistema de rejillas de Bootstrap</p>
 </div>
                                                                                       
 </td>
