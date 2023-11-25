@@ -11,6 +11,21 @@
 ## Some projects
 <table>
 <tr>
+  <td width="50%">
+<h3 align="center">API-advice-generator-app-main</h3>
+<div align="center">
+<a href="https://teegardenb.github.io/News-homepage-main/"><img src="https://github.com/TEEGardenb/API-advice-generator-app-main/assets/106503865/a22f16aa-4ce0-4f9d-abec-2431c4e6551a">
+</a>
+<p>
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
+</p>
+<p>API-generador-de-mensajes responsivo hecho con una API usando JavaScript</p>
+</div>
+                                                                                      
+</td>
+
 <td width="50%">
 <h3 align="center">Blog-Landing-Page</h3>
 <div align="center">
