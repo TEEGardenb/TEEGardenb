@@ -30,14 +30,12 @@
 <td width="50%">
 <h3 align="center">News-homepage-main</h3>
 <div align="center">
-<a href=""><img src="https://github.com/TEEGardenb/News-homepage-main/assets/106503865/24ede6e2-e3cd-41b8-b639-431f22bded99">
+<a href="https://teegardenb.github.io/News-homepage-main/"><img src="https://github.com/TEEGardenb/News-homepage-main/assets/106503865/24ede6e2-e3cd-41b8-b639-431f22bded99">
 </a>
 <p>
-<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
-</a>
-<a href="https://youtu.be/vJapzH_46a8" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
-</a>
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
 </p>
 <p>News-homepage-main hecho con el sistema de rejillas de Bootstrap</p>
 </div>
