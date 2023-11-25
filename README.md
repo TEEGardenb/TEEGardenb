@@ -17,11 +17,7 @@
 <a href="https://github.com/TEEGardenb/Blogr-landing-page-main-with-HTML-CSS-BOOTSTRAP-JS"><img src="https://github.com/TEEGardenb/Blogr-landing-page-main-with-HTML-CSS-BOOTSTRAP-JS/assets/106503865/a334f480-a6d5-44ff-801f-caabdcf55364" alt="landing-page-img">
 </a>
 <p>
-<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
-</a>
-<a href="https://youtu.be/vJapzH_46a8" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
-</a>
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
 </p>
 <p>Blog landig page responsivo hecho con bootstrap</p>
 </div>
