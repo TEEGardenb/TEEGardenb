@@ -14,7 +14,7 @@
   <td width="50%">
 <h3 align="center">API-advice-generator-app-main</h3>
 <div align="center">
-<a href="https://teegardenb.github.io/News-homepage-main/"><img src="https://github.com/TEEGardenb/API-advice-generator-app-main/assets/106503865/a22f16aa-4ce0-4f9d-abec-2431c4e6551a">
+<a href="https://teegardenb.github.io/API-advice-generator-app-main/"><img src="https://github.com/TEEGardenb/API-advice-generator-app-main/assets/106503865/a22f16aa-4ce0-4f9d-abec-2431c4e6551a">
 </a>
 <p>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
