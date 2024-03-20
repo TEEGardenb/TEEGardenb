@@ -42,6 +42,8 @@
                                                                                       
 </td>
 
+<tr>
+
 <td width="50%">
 <h3 align="center">Blog-Landing-Page</h3>
 <div align="center">
@@ -57,8 +59,6 @@
 </div>
                                                                                       
 </td>
-
-<tr>
 
 <td width="50%">
 <h3 align="center">News-homepage-main</h3>
