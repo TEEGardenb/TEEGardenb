@@ -15,14 +15,14 @@
     <td width="50%">
 <h3 align="center">Lista de Productos con Carrito</h3>
 <div align="center">
-<a href="https://teegardenb.github.io/Prueba-Buscador-peliculas/"><img src="https://github.com/TEEGardenb/Prueba-Buscador-peliculas/blob/master/src/images/preview.png">
+<a href="https://teegardenb.github.io/Product-list-with-cart/"><img src="https://github.com/TEEGardenb/Product-list-with-cart/raw/master/preview.jpg">
 </a>
 <p>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
 </p>
-<p>Prueba de buscador de pelis - useRef, useMemo, useCallback, debounce, services</p>
+<p>Lista de productos con carrito funcional y con localstorage (con diseño mobile)</p>
 </div>
   
 </td>
